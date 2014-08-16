@@ -1,0 +1,4 @@
+# 此为注释 - 将被 Git 忽略
+*.a						# 忽略所有 .a 结尾的文件
+!lib.a					# 但 lib.a 除外
+ToolFrameworkTests/		# 忽略 ToolFrameworkTests/ 目录下的所有文件

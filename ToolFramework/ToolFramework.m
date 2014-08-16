@@ -12,7 +12,7 @@
 
 + (void)frameworkTest
 {
-    NSLog(@"太棒了，你是如此成功的完成了pods私有库的管理！！！真给力！！！");
+    NSLog(@"太棒了，你是如此成功的完成了pods私有库的管理！！！真给力！！！houhou");
 }
 
 @end
